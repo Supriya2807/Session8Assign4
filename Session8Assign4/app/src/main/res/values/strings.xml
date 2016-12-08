@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Session8Assign4</string>
+    <string name="ok">OK</string>
+    <string name="content">Content From File</string>
+    <string name="delete">Delete File</string>
+</resources>
